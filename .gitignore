@@ -346,5 +346,8 @@ sketch
 .history
 .ionide
 
+.idea/*
+.mvn/*
+
 # End of https://www.toptal.com/developers/gitignore/api/linux,intellij,visualstudiocode,maven,java,react,node
 
